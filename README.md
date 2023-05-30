@@ -34,5 +34,39 @@ stress and happy obtained in the VAS-Pos questionnaire made after neutral stimul
 differences between the groups formed based on the ECG, EDA, EMG signals (collected during neutral stimulation), the state 
 questionnaire, and the trait questionnaire.
 
+* __Complementary Information C:__<br>Graphs that shows features contributions to PC1. This information complements Section 5.4. 
+>     C - Contributions PC1 - Fear
+>Graphs that shows features contributions to PC1, obtained from the principal component analysis on the features, of the individuals belonging to group 1, 2, 3, or global, selected from methology A on the ECG, EDA, EMG, or ECG+EDA+EMG signals associated with fear stimuli.
+
+>     C - Contributions PC1 - Happy
+>Graphs that shows features contributions to PC1, obtained from the principal component analysis on the features, of the individuals belonging to group 1, 2, 3, or global, selected from methology A on the ECG, EDA, EMG, or ECG+EDA+EMG signals associated with happy stimuli.
+
+>     C - Contributions PC1 - Neutral
+>Graphs that shows features contributions to PC1, obtained from the principal component analysis on the features, of the individuals belonging to group 1, 2, 3, or global, selected from methology A on the ECG, EDA, EMG, or ECG+EDA+EMG signals associated with neutral stimuli.
+
+>     C - Contributions PC1 - Baseline
+>Graphs that shows features contributions to PC1, obtained from the principal component analysis on the features, of the individuals belonging to group 1, 2, 3, or global, selected from methology A on the ECG, EDA, EMG, or ECG+EDA+EMG signals associated with baseline.
+
+* __Complementary Information D:__<br>Scatterplots matrix. This information complements Section 5.4. 
+>     D - scatterplot matrix - Fear
+>Scatterplots matrix considering the first three principal components obtained based on the 
+principal components analysis over the features selected based on methodology A and with the 
+consideration of ECG, EDA, EMG, or ECG+EDA+EMG signals on the emotional state of fear.
+
+>     D - scatterplot matrix - Happy
+>Scatterplots matrix considering the first three principal components obtained based on the 
+principal components analysis over the features selected based on methodology A and with the 
+consideration of ECG, EDA, EMG, or ECG+EDA+EMG signals on the emotional state of happy.
+
+>     D - scatterplot matrix - Neutral
+>Scatterplots matrix considering the first three principal components obtained based on the 
+principal components analysis over the features selected based on methodology A and with the 
+consideration of ECG, EDA, EMG, or ECG+EDA+EMG signals on the emotional state of neutral.
+
+>     D - scatterplot matrix - Baseline
+>Scatterplots matrix considering the first three principal components obtained based on the 
+principal components analysis over the features selected based on methodology A and with the 
+consideration of ECG, EDA, EMG, or ECG+EDA+EMG signals on the baseline.
+
 #### &#8594; Final optimized model: 
-* __Complementary Information C:__<br>Graphs of the results obtained With the optimized constructed model in terms of Recall and Precision. This information complements Section 5.5.1. 
+* __Complementary Information E:__<br>Graphs of the results obtained With the optimized constructed model in terms of Recall and Precision. This information complements Section 5.5.1. 
