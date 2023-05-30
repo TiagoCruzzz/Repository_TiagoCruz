@@ -34,6 +34,7 @@ stress and happy obtained in the VAS-Pos questionnaire made after neutral stimul
 differences between the groups formed based on the ECG, EDA, EMG signals (collected during neutral stimulation), the state 
 questionnaire, and the trait questionnaire.
 
+#### &#8594;  Principal Component Analysis Results: 
 * __Complementary Information C:__<br>Graphs that shows features contributions to PC1. This information complements Section 5.4. 
 >     C - Contributions PC1 - Fear
 >Graphs that shows features contributions to PC1, obtained from the principal component analysis on the features, of the individuals belonging to group 1, 2, 3, or global, selected from methology A on the ECG, EDA, EMG, or ECG+EDA+EMG signals associated with fear stimuli.
