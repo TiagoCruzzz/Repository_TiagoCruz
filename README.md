@@ -34,40 +34,43 @@ stress and happy obtained in the VAS-Pos questionnaire made after neutral stimul
 differences between the groups formed based on the ECG, EDA, EMG signals (collected during neutral stimulation), the state 
 questionnaire, and the trait questionnaire.
 
+#### &#8594;  Feature Selection Results: 
+* __Complementary Information C:__<br>Tables that show the features selected after implementation of the methodology A and after the methodology C (approach C1 and approach C2). This information complements Section 5.3. 
+
 #### &#8594;  Principal Component Analysis Results: 
-* __Complementary Information C:__<br>Graphs that shows features contributions to PC1. This information complements Section 5.4. 
->     C - Contributions PC1 - Fear
+* __Complementary Information D:__<br>Graphs that shows features contributions to PC1. This information complements Section 5.4. 
+>     D - Contributions PC1 - Fear
 >Graphs that shows features contributions to PC1, obtained from the principal component analysis on the features, of the individuals belonging to group 1, 2, 3, or global, selected from methology A on the ECG, EDA, EMG, or ECG+EDA+EMG signals associated with fear stimuli.
 
->     C - Contributions PC1 - Happy
+>     D - Contributions PC1 - Happy
 >Graphs that shows features contributions to PC1, obtained from the principal component analysis on the features, of the individuals belonging to group 1, 2, 3, or global, selected from methology A on the ECG, EDA, EMG, or ECG+EDA+EMG signals associated with happy stimuli.
 
->     C - Contributions PC1 - Neutral
+>     D - Contributions PC1 - Neutral
 >Graphs that shows features contributions to PC1, obtained from the principal component analysis on the features, of the individuals belonging to group 1, 2, 3, or global, selected from methology A on the ECG, EDA, EMG, or ECG+EDA+EMG signals associated with neutral stimuli.
 
->     C - Contributions PC1 - Baseline
+>     D - Contributions PC1 - Baseline
 >Graphs that shows features contributions to PC1, obtained from the principal component analysis on the features, of the individuals belonging to group 1, 2, 3, or global, selected from methology A on the ECG, EDA, EMG, or ECG+EDA+EMG signals associated with baseline.
 
-* __Complementary Information D:__<br>Scatterplots matrix. This information complements Section 5.4. 
->     D - scatterplot matrix - Fear
+* __Complementary Information E:__<br>Scatterplots matrix. This information complements Section 5.4. 
+>     E - scatterplot matrix - Fear
 >Scatterplots matrix considering the first three principal components obtained based on the 
 principal components analysis over the features selected based on methodology A and with the 
 consideration of ECG, EDA, EMG, or ECG+EDA+EMG signals on the emotional state of fear.
 
->     D - scatterplot matrix - Happy
+>     E - scatterplot matrix - Happy
 >Scatterplots matrix considering the first three principal components obtained based on the 
 principal components analysis over the features selected based on methodology A and with the 
 consideration of ECG, EDA, EMG, or ECG+EDA+EMG signals on the emotional state of happy.
 
->     D - scatterplot matrix - Neutral
+>     E - scatterplot matrix - Neutral
 >Scatterplots matrix considering the first three principal components obtained based on the 
 principal components analysis over the features selected based on methodology A and with the 
 consideration of ECG, EDA, EMG, or ECG+EDA+EMG signals on the emotional state of neutral.
 
->     D - scatterplot matrix - Baseline
+>     E - scatterplot matrix - Baseline
 >Scatterplots matrix considering the first three principal components obtained based on the 
 principal components analysis over the features selected based on methodology A and with the 
 consideration of ECG, EDA, EMG, or ECG+EDA+EMG signals on the baseline.
 
 #### &#8594; Final optimized model: 
-* __Complementary Information E:__<br>Graphs of the results obtained With the optimized constructed model in terms of Recall and Precision. This information complements Section 5.5.1. 
+* __Complementary Information F:__<br>Graphs of the results obtained With the optimized constructed model in terms of Recall and Precision. This information complements Section 5.5.1. 
