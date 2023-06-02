@@ -16,19 +16,19 @@
 
 * __Complementary Information B:__<br>Tables that shows the results of Kruskal-wallis test, One Way ANOVA or Welch's ANOVA, for the case in 
 which the VAS-Pos questionnaires are used. This information complements Section 5.1.2. 
->     B - Vas-Pos fear 
+>     Table B.1 
 >Table with the results of the statistical tests performed on the grouped values of the features anxiety, fear, 
 stress and happy obtained in the VAS-Pos questionnaire made after fear stimulation, in order to verify the existence or not of significant 
 differences between the groups formed based on the ECG, EDA, EMG signals (collected during fear stimulation), the state 
 questionnaire, and the trait questionnaire.
 
->     B - Vas-Pos happy
+>     Table B.2
 >Table with the results of the statistical tests performed on the grouped values of the features anxiety, fear, 
 stress and happy obtained in the VAS-Pos questionnaire made after happy stimulation, in order to verify the existence or not of significant 
 differences between the groups formed based on the ECG, EDA, EMG signals (collected during happy stimulation), the state 
 questionnaire, and the trait questionnaire.
 
->     B - Vas-Pos neutral
+>     Table B.3
 >Table with the results of the statistical tests performed on the grouped values of the features anxiety, fear, 
 stress and happy obtained in the VAS-Pos questionnaire made after neutral stimulation, in order to verify the existence or not of significant 
 differences between the groups formed based on the ECG, EDA, EMG signals (collected during neutral stimulation), the state 
